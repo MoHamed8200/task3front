@@ -1,0 +1,4 @@
+#ifndef SYSTEMCONFIG_H
+#define SYSTEMCONFIG_H
+
+#endif // SYSTEMCONFIG_H

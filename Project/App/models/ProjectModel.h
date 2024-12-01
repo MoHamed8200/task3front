@@ -1,0 +1,4 @@
+#ifndef PROJECTMODEL_H
+#define PROJECTMODEL_H
+
+#endif // PROJECTMODEL_H
